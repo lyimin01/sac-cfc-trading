@@ -1,0 +1,7 @@
+Reinforcement Learning Algorithm:
+- Soft Actor-Critic (SAC) 
+- Closed-form Continuous-time Network (CfC)
+
+Sources:
+- RL Introduction: https://spinningup.openai.com/
+- CfC Paper: https://arxiv.org/abs/2106.13898
